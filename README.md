@@ -3,7 +3,7 @@ Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenet
 
 This repository implements the DualCWE (dual contrastive word encoder) model.
 The commands below reproduce the full pipeline: training, distance computation, tree inference, and evaluation, with downstream analyses applied to a representative seed.
-
+## Replicate study / run experiments
 ### 0. Setup
 
 Clone/download the repository, navigate to the folder in your terminaml and set up a Python environment (optional) with the required dependencies.
@@ -107,11 +107,11 @@ To get the tree F1-score of family recover, we run:
 python -m src.jäger_scripts.family_recovery --trees out/dual_contrastive/featvecs/seed5/inferred_tree_cosine_dist_nj.txt --out results/dual_contrastive/featvecs/seed5/family_recovery.csv
 ``` 
 
-# Adding a new model type
+## Adding a new model type
 
 This repository currently implements a single model, `DualCWE` (dual contrastive word encoder). The code is structured so that additional model types can be added into the existing pipeline. This document describes the steps involved.
 
-## Overview of the pipeline
+### Overview of the pipeline
 
 The pipeline is split into several modules:
 
@@ -128,9 +128,9 @@ The pipeline is split into several modules:
 | `src/get_qdist_full.py`, `src/get_qdist_families.py` | Tree inference and GQD |
 | `run_experiment.py` | Full multi-seed pipeline |
 
-## Steps to add a new model
+### Steps to add a new model
 
-### 1. Define the model class in `src/model.py`
+**1. Define the model class in `src/model.py`**
 
 Add a new `nn.Module` subclass. The model must expose the following interface
 so that the rest of the pipeline can use it:
@@ -138,7 +138,7 @@ so that the rest of the pipeline can use it:
 - A `get_representations(x, c=None, l=None)` method that returns a per-(language, concept) embedding tensor of shape `(B, D)`. This is used by `evaluate_pairwise_distances.py` to accumulate mean embeddings. Neither concepts (c), nor languages (l) need to be used by the model - the arguments are just there for compatibility with the evaluation script. 
 - A `representation_dim` attribute giving the embedding dimension `D`. This is read by   `evaluate_pairwise_distances.py`.
 
-### 2. Register the model in `src/config.py`
+**2. Register the model in `src/config.py`**
 
 Add a function that initializes your model and adjust the `build_model()` function:
 
@@ -154,15 +154,15 @@ def build_model(cfg: TrainConfig) -> nn.Module:
 
 If the new model needs hyperparameters that are not already in `TrainConfig`, add them as new fields to the dataclass.
 
-### 3. Wire up the training loop in `src/train.py`
+**3. Wire up the training loop in `src/train.py`**
 
 The training loop in `src/train.py` currently assumes the dual-contrastive objective (two forward passes with stochastic augmentations, then an NT-Xent loss). If your model uses a different objective, add a new branch in the training loop. You may also need to adjust the dataloader setup if your model does not use the `LangConcBatchSampler`. You'll find placeholders for both the dataset/-loader setup as well as the validation loop.
 If you use a loss function different than the NT-Xent-loss, you may want to add it to `src/training_utils.py` and import and implement it in `src/train.py`.
 
-### 4. Add command-line arguments
+**4. Add command-line arguments**
 
 Add any new hyperparameters to `parse_args()` in `src/train.py`. If you run full experiments via `run_experiment.py`, also add the corresponding arguments there and forward them to `src.train`.
 
-### 5. Evaluation scripts
+**5. Evaluation scripts**
 
 The evaluation scripts (`evaluate_pairwise_distances.py`, `evaluate_concept_weights.py`) call `model.get_representations()` and read `model.representation_dim`. As long as your model implements these, no changes are needed. If your model produces embeddings differently (for example, a single language-level embedding rather than per-concept embeddings), you will need to adjust `get_mean_embeddings()` in `evaluate_pairwise_distances.py`.
