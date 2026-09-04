@@ -1,0 +1,85 @@
+tree,family,n,f1,repair
+inferred_tree_cosine_dist_nj,"Atlantic-Congo",642,0.948617,65
+inferred_tree_cosine_dist_nj,"Austronesian",555,0.990170,11
+inferred_tree_cosine_dist_nj,"Sino-Tibetan",253,0.923358,42
+inferred_tree_cosine_dist_nj,"Nuclear Trans New Guinea",248,0.587106,301
+inferred_tree_cosine_dist_nj,"Indo-European",151,1.000000,0
+inferred_tree_cosine_dist_nj,"Afro-Asiatic",121,0.857143,40
+inferred_tree_cosine_dist_nj,"Austroasiatic",102,0.969697,6
+inferred_tree_cosine_dist_nj,"Pama-Nyungan",57,0.842105,21
+inferred_tree_cosine_dist_nj,"Otomanguean",54,0.910891,9
+inferred_tree_cosine_dist_nj,"Tupian",50,0.979592,2
+inferred_tree_cosine_dist_nj,"Nuclear Torricelli",49,0.903226,9
+inferred_tree_cosine_dist_nj,"Arawakan",35,0.956522,3
+inferred_tree_cosine_dist_nj,"Mande",35,1.000000,0
+inferred_tree_cosine_dist_nj,"Mayan",30,1.000000,0
+inferred_tree_cosine_dist_nj,"Sepik",28,0.793651,13
+inferred_tree_cosine_dist_nj,"Turkic",28,1.000000,0
+inferred_tree_cosine_dist_nj,"Uto-Aztecan",26,1.000000,0
+inferred_tree_cosine_dist_nj,"Uralic",26,1.000000,0
+inferred_tree_cosine_dist_nj,"Dravidian",25,1.000000,0
+inferred_tree_cosine_dist_nj,"Hmong-Mien",25,1.000000,0
+inferred_tree_cosine_dist_nj,"Ramu",21,1.000000,0
+inferred_tree_cosine_dist_nj,"Quechuan",21,1.000000,0
+inferred_tree_cosine_dist_nj,"Timor-Alor-Pantar",19,0.974359,1
+inferred_tree_cosine_dist_nj,"Central Sudanic",19,0.950000,2
+inferred_tree_cosine_dist_nj,"Dogon",18,1.000000,0
+inferred_tree_cosine_dist_nj,"Tucanoan",18,1.000000,0
+inferred_tree_cosine_dist_nj,"Lakes Plain",17,0.969697,1
+inferred_tree_cosine_dist_nj,"Pano-Tacanan",17,0.903226,3
+inferred_tree_cosine_dist_nj,"Cariban",16,1.000000,0
+inferred_tree_cosine_dist_nj,"Chibchan",15,0.846154,4
+inferred_tree_cosine_dist_nj,"Mixe-Zoque",14,1.000000,0
+inferred_tree_cosine_dist_nj,"Anim",13,0.555556,8
+inferred_tree_cosine_dist_nj,"Tungusic",13,1.000000,0
+inferred_tree_cosine_dist_nj,"Angan",12,0.956522,1
+inferred_tree_cosine_dist_nj,"Ta-Ne-Omotic",12,1.000000,0
+inferred_tree_cosine_dist_nj,"Japonic",11,1.000000,0
+inferred_tree_cosine_dist_nj,"Kru",11,1.000000,0
+inferred_tree_cosine_dist_nj,"Salishan",11,1.000000,0
+inferred_tree_cosine_dist_nj,"Mongolic-Khitan",11,1.000000,0
+inferred_tree_cosine_dist_nj,"Sko",10,0.900000,2
+inferred_tree_cosine_dist_nj,"Tai-Kadai",10,1.000000,0
+inferred_tree_cosine_dist_nj,"Border",9,1.000000,0
+inferred_tree_cosine_dist_nj,"Ndu",9,1.000000,0
+inferred_tree_cosine_dist_nj,"Nuclear-Macro-Je",9,0.777778,4
+inferred_tree_cosine_dist_nj,"Nakh-Daghestanian",8,0.933333,1
+inferred_tree_cosine_dist_nj,"Athabaskan-Eyak-Tlingit",7,0.923077,1
+inferred_tree_cosine_dist_nj,"Bosavi",7,1.000000,0
+inferred_tree_cosine_dist_nj,"Koiarian",7,1.000000,0
+inferred_tree_cosine_dist_nj,"Yam",7,0.933333,1
+inferred_tree_cosine_dist_nj,"Nilotic",7,0.923077,1
+inferred_tree_cosine_dist_nj,"Cochimi-Yuman",7,1.000000,0
+inferred_tree_cosine_dist_nj,"Dagan",7,0.923077,1
+inferred_tree_cosine_dist_nj,"Totonacan",7,1.000000,0
+inferred_tree_cosine_dist_nj,"East Strickland",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Muskogean",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Lower Sepik",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Kiwaian",6,1.000000,0
+inferred_tree_cosine_dist_nj,"South Bird's Head Family",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Geelvink Bay",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Tor-Orya",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Chocoan",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Matacoan",6,1.000000,0
+inferred_tree_cosine_dist_nj,"Yareban",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Eleman",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Eskimo-Aleut",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Left May",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Keram",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Arawan",5,1.000000,0
+inferred_tree_cosine_dist_nj,"North Halmahera",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Guahiboan",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Pauwasi",5,0.750000,2
+inferred_tree_cosine_dist_nj,"West Bird's Head",5,1.000000,0
+inferred_tree_cosine_dist_nj,"Chicham",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Greater Kwerba",4,0.857143,1
+inferred_tree_cosine_dist_nj,"Chukotko-Kamchatkan",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Barbacoan",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Blue Nile Mao",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Mailuan",4,0.857143,1
+inferred_tree_cosine_dist_nj,"Eastern Trans-Fly",4,0.666667,2
+inferred_tree_cosine_dist_nj,"Naduhup",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Songhay",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Huitotoan",4,1.000000,0
+inferred_tree_cosine_dist_nj,"Guaicuruan",4,0.857143,1
+inferred_tree_cosine_dist_nj,"Yanomamic",4,1.000000,0

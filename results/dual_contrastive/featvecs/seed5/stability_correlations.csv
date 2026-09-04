@@ -1,0 +1,12 @@
+Ranking,Common concepts,Spearman r,p-value
+Holman ranking value,69,-0.5043,9.9464e-06
+Pagel mean rate,97,0.3416,0.0006161929
+Peust ranking,101,0.3694,0.0001435922
+Rama & Borin score,69,0.7208,0.0
+Tadmor score (replica),122,0.0171,0.8518119886
+WOLD age score,122,-0.0848,0.3530967334
+WOLD borrowed score,122,-0.1148,0.2079323925
+WOLD simplicity score,122,-0.2441,0.0067452571
+inf,122,0.4657,6.49e-08
+Petroni & Serva,61,-0.3109,0.0147228049
+Tadmor score,59,-0.2087,0.1125915516

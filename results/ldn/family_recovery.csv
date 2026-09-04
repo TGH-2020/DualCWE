@@ -1,0 +1,85 @@
+tree,family,n,f1,repair
+inferred_tree_ldn_nj,"Atlantic-Congo",642,0.967400,43
+inferred_tree_ldn_nj,"Austronesian",555,0.997290,3
+inferred_tree_ldn_nj,"Sino-Tibetan",253,0.994059,3
+inferred_tree_ldn_nj,"Nuclear Trans New Guinea",248,0.574713,148
+inferred_tree_ldn_nj,"Indo-European",151,0.993333,2
+inferred_tree_ldn_nj,"Afro-Asiatic",121,0.917749,19
+inferred_tree_ldn_nj,"Austroasiatic",102,1.000000,0
+inferred_tree_ldn_nj,"Pama-Nyungan",57,0.850394,19
+inferred_tree_ldn_nj,"Otomanguean",54,0.854167,14
+inferred_tree_ldn_nj,"Tupian",50,0.989899,1
+inferred_tree_ldn_nj,"Nuclear Torricelli",49,0.833333,14
+inferred_tree_ldn_nj,"Arawakan",35,1.000000,0
+inferred_tree_ldn_nj,"Mande",35,1.000000,0
+inferred_tree_ldn_nj,"Mayan",30,1.000000,0
+inferred_tree_ldn_nj,"Sepik",28,0.750000,16
+inferred_tree_ldn_nj,"Turkic",28,1.000000,0
+inferred_tree_ldn_nj,"Uto-Aztecan",26,1.000000,0
+inferred_tree_ldn_nj,"Uralic",26,1.000000,0
+inferred_tree_ldn_nj,"Dravidian",25,1.000000,0
+inferred_tree_ldn_nj,"Hmong-Mien",25,1.000000,0
+inferred_tree_ldn_nj,"Ramu",21,1.000000,0
+inferred_tree_ldn_nj,"Quechuan",21,1.000000,0
+inferred_tree_ldn_nj,"Timor-Alor-Pantar",19,0.972973,1
+inferred_tree_ldn_nj,"Central Sudanic",19,0.947368,2
+inferred_tree_ldn_nj,"Dogon",18,1.000000,0
+inferred_tree_ldn_nj,"Tucanoan",18,1.000000,0
+inferred_tree_ldn_nj,"Lakes Plain",17,0.969697,1
+inferred_tree_ldn_nj,"Pano-Tacanan",17,1.000000,0
+inferred_tree_ldn_nj,"Cariban",16,1.000000,0
+inferred_tree_ldn_nj,"Chibchan",15,0.928571,2
+inferred_tree_ldn_nj,"Mixe-Zoque",14,1.000000,0
+inferred_tree_ldn_nj,"Anim",13,0.645161,11
+inferred_tree_ldn_nj,"Tungusic",13,1.000000,0
+inferred_tree_ldn_nj,"Angan",12,0.956522,1
+inferred_tree_ldn_nj,"Ta-Ne-Omotic",12,1.000000,0
+inferred_tree_ldn_nj,"Japonic",11,1.000000,0
+inferred_tree_ldn_nj,"Kru",11,1.000000,0
+inferred_tree_ldn_nj,"Salishan",11,0.952381,1
+inferred_tree_ldn_nj,"Mongolic-Khitan",11,1.000000,0
+inferred_tree_ldn_nj,"Sko",10,1.000000,0
+inferred_tree_ldn_nj,"Tai-Kadai",10,1.000000,0
+inferred_tree_ldn_nj,"Border",9,1.000000,0
+inferred_tree_ldn_nj,"Ndu",9,1.000000,0
+inferred_tree_ldn_nj,"Nuclear-Macro-Je",9,0.625000,6
+inferred_tree_ldn_nj,"Nakh-Daghestanian",8,1.000000,0
+inferred_tree_ldn_nj,"Athabaskan-Eyak-Tlingit",7,0.923077,1
+inferred_tree_ldn_nj,"Bosavi",7,0.933333,1
+inferred_tree_ldn_nj,"Koiarian",7,1.000000,0
+inferred_tree_ldn_nj,"Yam",7,1.000000,0
+inferred_tree_ldn_nj,"Nilotic",7,1.000000,0
+inferred_tree_ldn_nj,"Cochimi-Yuman",7,1.000000,0
+inferred_tree_ldn_nj,"Dagan",7,0.923077,1
+inferred_tree_ldn_nj,"Totonacan",7,1.000000,0
+inferred_tree_ldn_nj,"East Strickland",6,1.000000,0
+inferred_tree_ldn_nj,"Muskogean",6,1.000000,0
+inferred_tree_ldn_nj,"Lower Sepik",6,1.000000,0
+inferred_tree_ldn_nj,"Kiwaian",6,1.000000,0
+inferred_tree_ldn_nj,"South Bird's Head Family",6,1.000000,0
+inferred_tree_ldn_nj,"Geelvink Bay",6,1.000000,0
+inferred_tree_ldn_nj,"Tor-Orya",6,1.000000,0
+inferred_tree_ldn_nj,"Chocoan",6,1.000000,0
+inferred_tree_ldn_nj,"Matacoan",6,1.000000,0
+inferred_tree_ldn_nj,"Yareban",5,1.000000,0
+inferred_tree_ldn_nj,"Eleman",5,1.000000,0
+inferred_tree_ldn_nj,"Eskimo-Aleut",5,1.000000,0
+inferred_tree_ldn_nj,"Left May",5,1.000000,0
+inferred_tree_ldn_nj,"Keram",5,1.000000,0
+inferred_tree_ldn_nj,"Arawan",5,1.000000,0
+inferred_tree_ldn_nj,"North Halmahera",5,1.000000,0
+inferred_tree_ldn_nj,"Guahiboan",5,1.000000,0
+inferred_tree_ldn_nj,"Pauwasi",5,0.750000,2
+inferred_tree_ldn_nj,"West Bird's Head",5,1.000000,0
+inferred_tree_ldn_nj,"Chicham",4,1.000000,0
+inferred_tree_ldn_nj,"Greater Kwerba",4,0.857143,1
+inferred_tree_ldn_nj,"Chukotko-Kamchatkan",4,1.000000,0
+inferred_tree_ldn_nj,"Barbacoan",4,1.000000,0
+inferred_tree_ldn_nj,"Blue Nile Mao",4,1.000000,0
+inferred_tree_ldn_nj,"Mailuan",4,0.857143,1
+inferred_tree_ldn_nj,"Eastern Trans-Fly",4,1.000000,0
+inferred_tree_ldn_nj,"Naduhup",4,1.000000,0
+inferred_tree_ldn_nj,"Songhay",4,1.000000,0
+inferred_tree_ldn_nj,"Huitotoan",4,1.000000,0
+inferred_tree_ldn_nj,"Guaicuruan",4,1.000000,0
+inferred_tree_ldn_nj,"Yanomamic",4,1.000000,0

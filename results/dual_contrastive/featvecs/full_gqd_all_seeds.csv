@@ -1,0 +1,11 @@
+tree_file,tree_type,GQD,seed
+inferred_tree_cosine_dist_nj.txt,nj,0.035455,1
+inferred_tree_cosine_dist_upgma.txt,upgma,0.040035,1
+inferred_tree_cosine_dist_nj.txt,nj,0.0315079999999999,2
+inferred_tree_cosine_dist_upgma.txt,upgma,0.039494,2
+inferred_tree_cosine_dist_nj.txt,nj,0.0401049999999999,3
+inferred_tree_cosine_dist_upgma.txt,upgma,0.0446189999999999,3
+inferred_tree_cosine_dist_nj.txt,nj,0.035467,4
+inferred_tree_cosine_dist_upgma.txt,upgma,0.0456029999999999,4
+inferred_tree_cosine_dist_nj.txt,nj,0.030271,5
+inferred_tree_cosine_dist_upgma.txt,upgma,0.0572549999999999,5

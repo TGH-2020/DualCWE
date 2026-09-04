@@ -1,0 +1,163 @@
+family,n_languages,tree_type,GQD
+Atlantic-Congo,642,nj,0.115977
+Atlantic-Congo,642,upgma,0.142077
+Austronesian,555,nj,0.06408400000000003
+Austronesian,555,upgma,0.22160100000000005
+Sino-Tibetan,253,nj,0.145239
+Sino-Tibetan,253,upgma,0.21035700000000002
+Nuclear Trans New Guinea,248,nj,0.11146999999999996
+Nuclear Trans New Guinea,248,upgma,0.12400599999999995
+Indo-European,151,nj,0.07777900000000004
+Indo-European,151,upgma,0.10250199999999998
+Afro-Asiatic,121,nj,0.13118600000000002
+Afro-Asiatic,121,upgma,0.152532
+Austroasiatic,102,nj,0.03988199999999997
+Austroasiatic,102,upgma,0.042425000000000046
+Pama-Nyungan,57,nj,0.139119
+Pama-Nyungan,57,upgma,0.14516399999999996
+Otomanguean,54,nj,0.24209899999999995
+Otomanguean,54,upgma,0.30612399999999995
+Tupian,50,nj,0.15320999999999996
+Tupian,50,upgma,0.29364999999999997
+Nuclear Torricelli,49,nj,0.367502
+Nuclear Torricelli,49,upgma,0.19336299999999995
+Arawakan,35,nj,0.06301599999999996
+Arawakan,35,upgma,0.26283500000000004
+Mande,35,nj,0.10028999999999999
+Mande,35,upgma,0.18594299999999997
+Mayan,30,nj,0.15524099999999996
+Mayan,30,upgma,0.21004699999999998
+Sepik,28,nj,0.19125599999999998
+Sepik,28,upgma,0.18054000000000003
+Turkic,28,nj,0.369344
+Turkic,28,upgma,0.517326
+Uralic,26,nj,0.02644599999999997
+Uralic,26,upgma,0.04122899999999996
+Uto-Aztecan,26,nj,0.11480999999999997
+Uto-Aztecan,26,upgma,0.14927599999999996
+Dravidian,25,nj,0.22863999999999995
+Dravidian,25,upgma,0.288226
+Hmong-Mien,25,nj,0.272201
+Hmong-Mien,25,upgma,0.459317
+Quechuan,21,nj,0.16691699999999998
+Quechuan,21,upgma,0.251448
+Ramu,21,nj,0.04067399999999999
+Ramu,21,upgma,0.04067399999999999
+Central Sudanic,19,nj,0.14158199999999999
+Central Sudanic,19,upgma,0.15975799999999996
+Timor-Alor-Pantar,19,nj,0.26762699999999995
+Timor-Alor-Pantar,19,upgma,0.26762699999999995
+Dogon,18,nj,0.10064899999999999
+Dogon,18,upgma,0.02643799999999996
+Tucanoan,18,nj,0.358966
+Tucanoan,18,upgma,0.266552
+Lakes Plain,17,nj,0.14613299999999996
+Lakes Plain,17,upgma,0.11306700000000003
+Pano-Tacanan,17,nj,0.293033
+Pano-Tacanan,17,upgma,0.34938499999999995
+Cariban,16,nj,0.479735
+Cariban,16,upgma,0.48800699999999997
+Chibchan,15,nj,0.508121
+Chibchan,15,upgma,0.5282290000000001
+Mixe-Zoque,14,nj,0.03532000000000002
+Mixe-Zoque,14,upgma,0.03532000000000002
+Anim,13,nj,0.256966
+Anim,13,upgma,0.256966
+Tungusic,13,nj,0.252664
+Tungusic,13,upgma,0.36225300000000005
+Angan,12,nj,0.221843
+Angan,12,upgma,0.08532399999999996
+Ta-Ne-Omotic,12,nj,0.28101299999999996
+Ta-Ne-Omotic,12,upgma,0.250633
+Japonic,11,nj,0.6333329999999999
+Japonic,11,upgma,0.6151519999999999
+Kru,11,nj,0.27215199999999995
+Kru,11,upgma,0.23101300000000002
+Mongolic-Khitan,11,nj,0.04347800000000002
+Mongolic-Khitan,11,upgma,0.33540400000000004
+Salishan,11,nj,0.17405099999999996
+Salishan,11,upgma,0.19936699999999996
+Sko,10,nj,0.03977299999999995
+Sko,10,upgma,0.07954499999999998
+Tai-Kadai,10,nj,0.16190499999999997
+Tai-Kadai,10,upgma,0.19523800000000002
+Border,9,nj,0.493827
+Border,9,upgma,0.296296
+Ndu,9,nj,0.21568600000000004
+Ndu,9,upgma,0.686275
+Nuclear-Macro-Je,9,nj,0.0
+Nuclear-Macro-Je,9,upgma,0.0
+Nakh-Daghestanian,8,nj,0.27659599999999995
+Nakh-Daghestanian,8,upgma,0.5106379999999999
+Athabaskan-Eyak-Tlingit,7,nj,0.454545
+Athabaskan-Eyak-Tlingit,7,upgma,0.454545
+Bosavi,7,nj,0.210526
+Bosavi,7,upgma,0.210526
+Cochimi-Yuman,7,nj,0.27586200000000005
+Cochimi-Yuman,7,upgma,0.27586200000000005
+Dagan,7,nj,0.5555559999999999
+Dagan,7,upgma,0.333333
+Koiarian,7,nj,0.0
+Koiarian,7,upgma,0.0
+Nilotic,7,nj,0.114286
+Nilotic,7,upgma,0.114286
+Totonacan,7,nj,0.0
+Totonacan,7,upgma,0.0
+Yam,7,nj,0.0
+Yam,7,upgma,0.0
+Chocoan,6,nj,0.866667
+Chocoan,6,upgma,0.8
+East Strickland,6,nj,0.44444399999999995
+East Strickland,6,upgma,0.0
+Geelvink Bay,6,nj,0.0
+Geelvink Bay,6,upgma,0.0
+Kiwaian,6,nj,0.5
+Kiwaian,6,upgma,0.0
+Lower Sepik,6,nj,0.0
+Lower Sepik,6,upgma,0.0
+Matacoan,6,nj,0.266667
+Matacoan,6,upgma,0.266667
+Muskogean,6,nj,0.0
+Muskogean,6,upgma,0.0
+South Bird's Head Family,6,nj,0.0
+South Bird's Head Family,6,upgma,0.0
+Arawan,5,nj,0.0
+Arawan,5,upgma,0.0
+Eleman,5,nj,0.666667
+Eleman,5,upgma,0.666667
+Eskimo-Aleut,5,nj,0.0
+Eskimo-Aleut,5,upgma,0.0
+Guahiboan,5,nj,0.4
+Guahiboan,5,upgma,0.4
+Keram,5,nj,0.0
+Keram,5,upgma,0.0
+Left May,5,nj,0.666667
+Left May,5,upgma,0.666667
+North Halmahera,5,nj,0.0
+North Halmahera,5,upgma,0.0
+Pauwasi,5,nj,0.0
+Pauwasi,5,upgma,0.0
+West Bird's Head,5,nj,0.0
+West Bird's Head,5,upgma,0.0
+Yareban,5,nj,0.0
+Yareban,5,upgma,0.0
+Barbacoan,4,nj,0.0
+Barbacoan,4,upgma,0.0
+Blue Nile Mao,4,nj,0.0
+Blue Nile Mao,4,upgma,0.0
+Chicham,4,nj,1.0
+Chicham,4,upgma,1.0
+Chukotko-Kamchatkan,4,nj,0.0
+Chukotko-Kamchatkan,4,upgma,0.0
+Greater Kwerba,4,nj,1.0
+Greater Kwerba,4,upgma,0.0
+Guaicuruan,4,nj,1.0
+Guaicuruan,4,upgma,1.0
+Huitotoan,4,nj,1.0
+Huitotoan,4,upgma,1.0
+Naduhup,4,nj,0.0
+Naduhup,4,upgma,0.0
+Songhay,4,nj,1.0
+Songhay,4,upgma,1.0
+Yanomamic,4,nj,0.0
+Yanomamic,4,upgma,0.0

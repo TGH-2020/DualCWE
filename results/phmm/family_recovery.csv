@@ -1,0 +1,85 @@
+tree,family,n,f1,repair
+inferred_tree_phmm_nj,"Atlantic-Congo",642,0.921273,94
+inferred_tree_phmm_nj,"Austronesian",555,0.996390,4
+inferred_tree_phmm_nj,"Sino-Tibetan",253,0.996047,2
+inferred_tree_phmm_nj,"Nuclear Trans New Guinea",248,0.573034,152
+inferred_tree_phmm_nj,"Indo-European",151,0.993421,2
+inferred_tree_phmm_nj,"Afro-Asiatic",121,0.934363,17
+inferred_tree_phmm_nj,"Austroasiatic",102,1.000000,0
+inferred_tree_phmm_nj,"Pama-Nyungan",57,0.894737,12
+inferred_tree_phmm_nj,"Otomanguean",54,0.826087,16
+inferred_tree_phmm_nj,"Tupian",50,1.000000,0
+inferred_tree_phmm_nj,"Nuclear Torricelli",49,0.804878,16
+inferred_tree_phmm_nj,"Arawakan",35,0.942857,4
+inferred_tree_phmm_nj,"Mande",35,1.000000,0
+inferred_tree_phmm_nj,"Mayan",30,1.000000,0
+inferred_tree_phmm_nj,"Sepik",28,0.793651,13
+inferred_tree_phmm_nj,"Turkic",28,1.000000,0
+inferred_tree_phmm_nj,"Uto-Aztecan",26,1.000000,0
+inferred_tree_phmm_nj,"Uralic",26,1.000000,0
+inferred_tree_phmm_nj,"Dravidian",25,1.000000,0
+inferred_tree_phmm_nj,"Hmong-Mien",25,1.000000,0
+inferred_tree_phmm_nj,"Ramu",21,0.975610,1
+inferred_tree_phmm_nj,"Quechuan",21,1.000000,0
+inferred_tree_phmm_nj,"Timor-Alor-Pantar",19,0.972973,1
+inferred_tree_phmm_nj,"Central Sudanic",19,0.947368,2
+inferred_tree_phmm_nj,"Dogon",18,1.000000,0
+inferred_tree_phmm_nj,"Tucanoan",18,1.000000,0
+inferred_tree_phmm_nj,"Lakes Plain",17,0.937500,2
+inferred_tree_phmm_nj,"Pano-Tacanan",17,0.903226,3
+inferred_tree_phmm_nj,"Cariban",16,1.000000,0
+inferred_tree_phmm_nj,"Chibchan",15,0.888889,3
+inferred_tree_phmm_nj,"Mixe-Zoque",14,1.000000,0
+inferred_tree_phmm_nj,"Anim",13,0.782609,5
+inferred_tree_phmm_nj,"Tungusic",13,1.000000,0
+inferred_tree_phmm_nj,"Angan",12,1.000000,0
+inferred_tree_phmm_nj,"Ta-Ne-Omotic",12,1.000000,0
+inferred_tree_phmm_nj,"Japonic",11,1.000000,0
+inferred_tree_phmm_nj,"Kru",11,1.000000,0
+inferred_tree_phmm_nj,"Salishan",11,1.000000,0
+inferred_tree_phmm_nj,"Mongolic-Khitan",11,1.000000,0
+inferred_tree_phmm_nj,"Sko",10,0.750000,4
+inferred_tree_phmm_nj,"Tai-Kadai",10,1.000000,0
+inferred_tree_phmm_nj,"Border",9,1.000000,0
+inferred_tree_phmm_nj,"Ndu",9,1.000000,0
+inferred_tree_phmm_nj,"Nuclear-Macro-Je",9,0.571429,6
+inferred_tree_phmm_nj,"Nakh-Daghestanian",8,0.941176,1
+inferred_tree_phmm_nj,"Athabaskan-Eyak-Tlingit",7,0.923077,1
+inferred_tree_phmm_nj,"Bosavi",7,1.000000,0
+inferred_tree_phmm_nj,"Koiarian",7,1.000000,0
+inferred_tree_phmm_nj,"Yam",7,1.000000,0
+inferred_tree_phmm_nj,"Nilotic",7,0.923077,1
+inferred_tree_phmm_nj,"Cochimi-Yuman",7,1.000000,0
+inferred_tree_phmm_nj,"Dagan",7,1.000000,0
+inferred_tree_phmm_nj,"Totonacan",7,1.000000,0
+inferred_tree_phmm_nj,"East Strickland",6,1.000000,0
+inferred_tree_phmm_nj,"Muskogean",6,1.000000,0
+inferred_tree_phmm_nj,"Lower Sepik",6,1.000000,0
+inferred_tree_phmm_nj,"Kiwaian",6,1.000000,0
+inferred_tree_phmm_nj,"South Bird's Head Family",6,1.000000,0
+inferred_tree_phmm_nj,"Geelvink Bay",6,1.000000,0
+inferred_tree_phmm_nj,"Tor-Orya",6,1.000000,0
+inferred_tree_phmm_nj,"Chocoan",6,1.000000,0
+inferred_tree_phmm_nj,"Matacoan",6,1.000000,0
+inferred_tree_phmm_nj,"Yareban",5,1.000000,0
+inferred_tree_phmm_nj,"Eleman",5,1.000000,0
+inferred_tree_phmm_nj,"Eskimo-Aleut",5,0.888889,1
+inferred_tree_phmm_nj,"Left May",5,1.000000,0
+inferred_tree_phmm_nj,"Keram",5,1.000000,0
+inferred_tree_phmm_nj,"Arawan",5,1.000000,0
+inferred_tree_phmm_nj,"North Halmahera",5,1.000000,0
+inferred_tree_phmm_nj,"Guahiboan",5,1.000000,0
+inferred_tree_phmm_nj,"Pauwasi",5,1.000000,0
+inferred_tree_phmm_nj,"West Bird's Head",5,1.000000,0
+inferred_tree_phmm_nj,"Chicham",4,1.000000,0
+inferred_tree_phmm_nj,"Greater Kwerba",4,0.857143,1
+inferred_tree_phmm_nj,"Chukotko-Kamchatkan",4,1.000000,0
+inferred_tree_phmm_nj,"Barbacoan",4,1.000000,0
+inferred_tree_phmm_nj,"Blue Nile Mao",4,1.000000,0
+inferred_tree_phmm_nj,"Mailuan",4,1.000000,0
+inferred_tree_phmm_nj,"Eastern Trans-Fly",4,1.000000,0
+inferred_tree_phmm_nj,"Naduhup",4,1.000000,0
+inferred_tree_phmm_nj,"Songhay",4,1.000000,0
+inferred_tree_phmm_nj,"Huitotoan",4,1.000000,0
+inferred_tree_phmm_nj,"Guaicuruan",4,1.000000,0
+inferred_tree_phmm_nj,"Yanomamic",4,1.000000,0
