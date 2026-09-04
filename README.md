@@ -1,5 +1,5 @@
 # DualCWE
-Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference
+Code, data and results accompanying the _Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference_ paper.
 
 This repository implements the DualCWE (dual contrastive word encoder) model.
 The commands below reproduce the full pipeline: training, distance computation, tree inference, and evaluation, with downstream analyses applied to a representative seed.
