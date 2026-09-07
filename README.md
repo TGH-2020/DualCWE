@@ -3,7 +3,7 @@ Code, data and results accompanying the _Self-Supervised Lexical Representation 
 **Note**: The large representations and cosine distance files can be found in the otherwise equal [Zenodo archive](https://doi.org/10.5281/zenodo.22306542).
 
 If you use this pipeline in your own work, please cite:
-> Wientzek, T. (2026). Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference. _arXiv_. DOI: 
+> Wientzek, T. (2026). Self-Supervised Lexical Representation Learning for Fast, Large-Scale Phylogenetic Inference. _arXiv_. DOI: 10.48550/arXiv.2609.05262
 
 This repository implements the DualCWE (dual contrastive word encoder) model.
 The commands below reproduce the full pipeline: training, distance computation, tree inference, and evaluation, with downstream analyses applied to a representative seed.
